@@ -87,16 +87,6 @@ python gesture_recognition.py
 
 ---
 
-## 📸 Demo (Add Screenshot Here)
-
-👉 Add your screenshot like:
-
-```
-![Demo](demo.png)
-```
-
----
-
 ## 🔮 Future Improvements
 
 * 🖱️ Virtual mouse control
