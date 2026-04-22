@@ -92,7 +92,7 @@ python gesture_recognition.py
 👉 Add your screenshot like:
 
 ```
-![Demo](demo.png)
+![Demo](test.png)
 ```
 
 ---
